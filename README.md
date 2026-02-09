@@ -10,7 +10,7 @@
 
 Wrapped in a modern, professional dark-themed interface, it offers real-time visualization, smart budget enforcement, and deep financial insights.
 
-![Main Dashboard](banner.png)
+![Main Dashboard](images/banner.png)
 *Figure 1: The Modern Dark Dashboard visualizing monthly net flow and recent transactions.*
 
 ---
