@@ -10,7 +10,7 @@
 
 Wrapped in a modern, professional dark-themed interface, it offers real-time visualization, smart budget enforcement, and deep financial insights.
 
-![Main Dashboard](image_8389ab.png)
+![Main Dashboard](banner.png)
 *Figure 1: The Modern Dark Dashboard visualizing monthly net flow and recent transactions.*
 
 ---
@@ -23,7 +23,7 @@ Unlike standard apps that use simple averages, X-Analytics uses a **Long Short-T
 - **30-Day Lookback:** Analyzes your last 30 days of history to predict the next month's total expense.
 - **Visual Forecast:** Plots a dashed "Future Line" against your historical data to show exactly where your finances are heading.
 
-![AI Prediction](image_8389c3.png)
+![AI Prediction](AI_prediction.png)
 *Figure 2: The AI "Master Brain" predicting future spending trends based on historical data.*
 
 ### 💼 Comprehensive Financial Management
