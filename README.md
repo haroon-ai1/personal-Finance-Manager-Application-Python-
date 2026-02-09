@@ -23,7 +23,7 @@ Unlike standard apps that use simple averages, X-Analytics uses a **Long Short-T
 - **30-Day Lookback:** Analyzes your last 30 days of history to predict the next month's total expense.
 - **Visual Forecast:** Plots a dashed "Future Line" against your historical data to show exactly where your finances are heading.
 
-![AI Prediction](AI_prediction.png)
+![AI Prediction](images/AI_prediction.png)
 *Figure 2: The AI "Master Brain" predicting future spending trends based on historical data.*
 
 ### 💼 Comprehensive Financial Management
@@ -61,8 +61,9 @@ Follow these steps to get the Master Brain running on your local machine.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/haroon-ai1/personal-Finance-Manager-Application-Python-.git
-cd personal-Finance-Manager-Application-Python-
+git clone [https://github.com/haroon-ai1/personal-Finance-Manager-Application-Python-.git](https://github.com/haroon-ai1/personal-Finance-Manager-Application-Python-.git)
+cd personal-Finance-Manager-Application-Python- 
+```
 ### 2. Install Dependencies
 
 ```bash
@@ -118,7 +119,5 @@ Contributions are welcome! If you have ideas for better AI models, new UI themes
 ## 📜 License
 
 This project is developed by **Haroon** and is available for educational and open-source use.
-
-```
 
 ```
