@@ -1,7 +1,5 @@
-Here is the complete, raw text for your `README.md`. You can copy everything inside the code block below and paste it directly into your file.
-
-```markdown
-### AI-Powered Personal Finance Manager (x-analytics)
+# 🧠 X-Analytics: Master Brain Edition
+### AI-Powered Personal Finance Manager
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)
 ![TensorFlow](https://img.shields.io/badge/AI-TensorFlow%20%7C%20LSTM-orange?style=for-the-badge&logo=tensorflow)
@@ -63,11 +61,8 @@ Follow these steps to get the Master Brain running on your local machine.
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/haroon-ai1/personal-Finance-Manager-Application-Python-.git](https://github.com/haroon-ai1/personal-Finance-Manager-Application-Python-.git)
+git clone https://github.com/haroon-ai1/personal-Finance-Manager-Application-Python-.git
 cd personal-Finance-Manager-Application-Python-
-
-```
-
 ### 2. Install Dependencies
 
 ```bash
