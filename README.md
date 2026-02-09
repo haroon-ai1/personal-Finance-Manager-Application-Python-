@@ -120,4 +120,3 @@ Contributions are welcome! If you have ideas for better AI models, new UI themes
 
 This project is developed by **Haroon** and is available for educational and open-source use.
 
-```
