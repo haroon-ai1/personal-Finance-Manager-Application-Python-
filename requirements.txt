@@ -1,0 +1,6 @@
+customtkinter
+tensorflow
+scikit-learn
+pandas
+matplotlib
+pillow
